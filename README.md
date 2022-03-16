@@ -2,7 +2,7 @@
 this can be use with itext7 and also with PdfSharp
 the following example show how to use with PsdSharp. MigraDoc
 
-```
+```csharp
 using PdfSharp.Drawing;
 using PdfSharp.Pdf;
 using AraibcPdfUnicodeGlyphsResharper;

@@ -1,6 +1,6 @@
 # AraibcPdfUnicodeGlyphsResharper
 this can be use with itext7 and also with PdfSharp
-the following example show how to use with PsdSharp. MigraDoc
+the following example show how to use with PdfSharp. MigraDoc
 
 ```csharp
 using PdfSharp.Drawing;
